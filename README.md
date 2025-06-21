@@ -3,16 +3,15 @@
 
 
 <h1>Nahshon's Active Directory Deployment</h1>
-This tutorial outlines the deployment of Active Directory.<br />
+This tutorial tests the deployment of Active Directory.<br />
 
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Set Up Agents
+- Set Up Users and Computers
 - Set Up Permissions
-- Set Up Rules
-- Item 4
-- Item 5
+- Test Password Resets
+  
 
 <h2>Configuration Steps</h2>
 
