@@ -8,12 +8,11 @@ This tutorial tests the deployment of Active Directory.<br />
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Set Up Users and Computers
-- Set Up Permissions
-- Test Password Resets
+- Set Up of Users and Computers
+- Permissions Set Up 
+- Test/Reset Password 
   
 
-<h2>Configuration Steps</h2>
 
 
 ![image](https://github.com/user-attachments/assets/f8c23556-c8e7-402c-9739-1de83c8ad9aa)  
